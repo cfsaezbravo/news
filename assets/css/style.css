@@ -1,1 +1,31 @@
-/* Holiii otra vez */
+*{
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+.navbar{
+	top: 60px;
+	background-color: white;
+	margin-left: 58px;
+}
+
+#news{
+	margin-left: 28px;
+}
+#punto{
+	color: red;
+}
+
+#primera-imagen img{
+	margin-top: 100px;
+	margin-left: 70px;
+}
+
+#segunda-imagen {
+    margin-top: 100px;
+    margin-left: -45px;
+}
+
+#tercera-imagen, #cuarta-imagen{
+	margin-left: -45px;
+	margin-top: 20px;
+}
